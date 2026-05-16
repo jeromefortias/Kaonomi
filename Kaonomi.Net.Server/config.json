@@ -1,0 +1,35 @@
+{
+  "appName": "KaonomiRestServer",
+
+  "projectName": "KAONOMI.NET",
+  "language": "EN",
+  "category": "SERVER",
+  "appDescription": "Rest Server",
+  "AppDocumentationUrl": "https://www.kaonomi.net",
+  
+  "dataRepository": {
+    "Url": "http://localhost:9200",
+    "Layer": "Default",
+    "Prefix": "",
+    "Password": "",
+    "User": ""
+  },
+  "dialogRepository": {
+    "Url": "http://localhost:9200",
+    "Layer": "Default",
+    "Prefix": "",
+    "Password": "",
+    "User": ""
+  },
+  "adminRepository": {
+    "Url": "http://localhost:9200",
+    "Layer": "Default",
+    "Prefix": "",
+    "Password": "",
+    "User": ""
+  },
+  "latencyMs": 1,
+  "ollamaUrl": "http://localhost:11434/v1/chat/completions"
+
+
+}

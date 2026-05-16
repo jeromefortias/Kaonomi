@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Kaonomi.Net.Admin/Kaonomi.Net.Admin.csproj" Id="b6fa5888-372c-4d0f-8c44-44a458a4d313" />
+  <Project Path="Kaonomi.Net.Core/Kaonomi.Net.Core.csproj" />
+  <Project Path="Kaonomi.Net.Portal/Kaonomi.Net.Portal.csproj" Id="e25d02bb-c5a2-40ef-8453-d5bebb64bbb8" />
+  <Project Path="Kaonomi.Net.Server/Kaonomi.Net.Server.csproj" Id="08b481a7-c6c4-42ac-900a-1c20908f64a2" />
+</Solution>
