@@ -6,7 +6,8 @@ namespace Kaonomi.Net.Admin
 {
     /// <summary>
     /// Console d'administration : charge la config, journalise dans Elasticsearch, boucle REPL vers Ollama.
-    /// J'ajoute ce commentaire pour tester GIT  
+    /// J'ajoute ce commentaire pour tester GIT
+    /// superrr
     /// </summary>
     internal class Program
     {
